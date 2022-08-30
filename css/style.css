@@ -1,0 +1,42 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   background-color:rgba(26, 219, 152, 0.185);
+}
+
+.nav {
+   background: #fff;
+   margin: 0 0 10px;
+   height: 50px;
+}
+
+.nav a {
+   display: inline-block;
+   margin: 15px;
+   letter-spacing:0.1em;
+   text-decoration: none;
+}
+
+h2 {
+   margin: 10px 15px;
+   color: rgb(212, 163, 72);
+}
+
+#chap2 {
+   color: rgb(88, 130, 221);
+}
+
+.info-container {
+   margin-left: 30px;
+}
+
+.circular {
+   background: gray;
+   height: 50px;
+   width: 50px;
+   border-radius: 50%;
+   vertical-align: middle;
+}
